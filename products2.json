@@ -1,0 +1,80 @@
+[
+    {
+        "titulo": "Sal fina Hacendado Paquete 1 kg",
+        "precio": "0,30 €",
+        "img": "https://prod-mercadona.imgix.net/images/7873137d1afe44deeb4fff285430438f.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal fina de mesa Hacendado Bote 250 g",
+        "precio": "0,50 €",
+        "img": "https://prod-mercadona.imgix.net/images/d9e82bacee73e9b91d61db5663bbe81a.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal yodada fina Hacendado Paquete 1 kg",
+        "precio": "0,30 €",
+        "img": "https://prod-mercadona.imgix.net/images/b51e049cd084875118ba92af2358efc4.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal gruesa Hacendado Paquete 1 kg",
+        "precio": "0,30 €",
+        "img": "https://prod-mercadona.imgix.net/images/a81a22fc505bece2f093574d3486204a.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Bicarbonato sódico Hacendado Paquete 1 kg",
+        "precio": "1,50 €",
+        "img": "https://prod-mercadona.imgix.net/images/ed1ebfa8c76af67dc21a385de31fc778.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Bicarbonato sódico Hacendado Bote 300 g",
+        "precio": "1,10 €",
+        "img": "https://prod-mercadona.imgix.net/images/f9ae0f4b0970e8356b7834aec85514f6.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal marina en escamas Polasal Bote 125 g",
+        "precio": "1,95 €",
+        "img": "https://prod-mercadona.imgix.net/images/36bc3658a807997961ec5fda23dd948e.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal gruesa para hornear Hacendado Paquete 2 kg",
+        "precio": "0,95 €",
+        "img": "https://prod-mercadona.imgix.net/images/07c7c790c661903662af0cd70e1f05b2.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal de ajo Hacendado Bote 130 g",
+        "precio": "1,75 €",
+        "img": "https://prod-mercadona.imgix.net/images/bd81680a3655bf89428f333254f34979.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal de frutas sabor limón Hacendado Bote 250 g",
+        "precio": "2,00 €",
+        "img": "https://prod-mercadona.imgix.net/images/5ba4d62436d14a7cc28378beb8629a46.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal 60% menos de sodio Hacendado Bote 250 g",
+        "precio": "2,10 €",
+        "img": "https://prod-mercadona.imgix.net/images/94a6e7709ae88d33abaf61dc7bfaec2a.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Preparado para salmón ahumado Hacendado Bote 750 g",
+        "precio": "3,30 €",
+        "img": "https://prod-mercadona.imgix.net/images/029c3c8e49b1d8f5bccae5a4c6283d47.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    },
+    {
+        "titulo": "Sal rosa del Himalaya Hacendado Bote 250 g",
+        "precio": "1,80 €",
+        "img": "https://prod-mercadona.imgix.net/images/991e60bbdb74fba917c9e25a05d2ab78.jpg?fit=crop&h=300&w=300",
+        "tienda": "MERCADONA"
+    }
+]
