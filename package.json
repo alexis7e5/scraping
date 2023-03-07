@@ -12,6 +12,5 @@
     "firebase": "^9.17.1",
     "node-tesseract-ocr": "^2.2.1",
     "puppeteer": "^19.6.3"
-  },
-  "type": "module"
+  }
 }
