@@ -7,7 +7,7 @@ const puppeteer = require('puppeteer');
     const page = await browser.newPage();
 
     // ------------ Mercadona -------------
-    await page.goto('https://tienda.mercadona.es/categories/112');
+    await page.goto('https://tienda.mercadona.es/categories/115');
     await page.waitForTimeout(2000);
     await page.setViewport({ width: 1920, height: 1080 });
     await page.type(".ym-hide-content", '08033');
